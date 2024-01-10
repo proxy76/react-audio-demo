@@ -5,7 +5,7 @@ export default function Main() {
         <>
             <div className="wrapper">
                 <div className="text">
-                        DEMONSTRAȚI<br></br>
+                        DEMONSTRAȚIE<br></br>
                         <span className="span-1">De fișier<br></br></span>
                         AUDIO
                 </div>
